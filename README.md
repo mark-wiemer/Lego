@@ -9,7 +9,7 @@ If you're setting up Unity for the very first time, you can recreate the initial
 1. Install [Unity Hub](https://unity3d.com/get-unity/download)
 1. Install Unity 2019.4.x
     - In Unity Hub, go to Installs, then Add the latest Unity 2019 version, e.g. Unity 2019.4.39f1 (LTS)
-    - Alternatively, you can download a specific Unity 2019.4 version at e.g. [Unity 2019.4.39](https://unity3d.com/unity/whats-new/2019.4.39)
+    - Alternatively, you can [download a specific Unity version](https://unity3d.com/get-unity/download/archive)
 1. Create the Lego project
     1. In Unity Hub, got to Projects, then click the arrow next to New and choose Unity 2019.4.x
     1. Wait for the modal to load all templates
